@@ -2,7 +2,7 @@
 
 Bootcamp DIO de Análise de Dados.
 
-Este projeto teve como objetivo testar os conhecimentos de como criar um dashboard básico no excel, bem como lembrar de pontos importantes de cuidado e atenção ao desenvolver um dashboard.
+Este projeto faz parte de um entregável no Bootcamp da DIO de Análise de Dados da Randstad e teve como objetivo testar os conhecimentos de como criar um dashboard básico no excel, bem como lembrar de pontos importantes de cuidado e atenção ao desenvolver um dashboard.
 
 Foi criado um dashboard de vendas de assinatura do XBOX que responde a perguntas de negócio, como por exemplo, qual é a média de valor de assinatura, quem é o player mais valioso e a quantidade de assinaturas que se renovam automaticamente.
 
