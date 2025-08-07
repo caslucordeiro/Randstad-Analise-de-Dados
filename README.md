@@ -1,5 +1,6 @@
+------------------------------------------------------------------------------------
 Dashboard com os valores dos preços dos combustíveis nos últimos anos no Brasil.
-
+------------------------------------------------------------------------------------
 A ideia desse projeto é praticar o conhecimento adquirido nas aulas de Power BI do Bootcamp da Randstad pela DIO.
 
 
